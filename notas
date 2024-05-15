@@ -1,0 +1,110 @@
+WHAT (the fact)
+- tipo:
+nombres (single terms): el contagio, carteles, autopsias
+multiword terms: una forma de contagio similar al Sida, la ley mundial de la salud
+estructuras complejas...: 	
+	que NO es un VIRUS sino una BACTERIA la que produce la muerte, el contemplar la posibilidad de un trasplante
+	evidencias de un aumento en los problemas cardiovasculares, especialmente trombosis
+- función:
+sujeto: la sentencia esgrime
+	La sentencia esgrime que ya no fue \"posible\", dado el estado clínico del hombre, el contemplar la posibilidad de un trasplante o de una resección quirúrgica.
+	el coronavirus
+	El coronavirus ha acabado con la vida de al menos a 131 personas, 
+complementos (muchos): 
+	las partes más oscuras
+	Hay que evitar comerse siempre las partes más oscuras. 
+	récord de vacunas administradas
+	La incidencia acumulada sigue aumentando en España hasta los 154,7 casos con 7.041 contagios más de covid en 24 horas, en una jornada que ha registrado récord de vacunas administradas por segundo día consecutivo: 306.995 dosis el jueves y 298.549 este miércoles.
+
+--------
+
+WHO (subject): 
+- tipo:
+named entities: El New York Times
+several named entities: Los principales países de la Unión Europea, como Alemania, Italia, Francia y España
+terms: El especialista, encargado de la OMS para el coronavirus (PROBLEMATICO)
+chunks of entities: "hasta la mujer de Sánchez" problemático
+no podedos apuntar a sacar estas anotaciones
+- función:
+sujeto: El New York Times asegura
+CI: 
+	a cada uno de los países
+	Pero corresponde a cada uno de los países decidir si se reanuda la vacunación, cuándo y en qué grupos se administrará
+
+CD:
+	hasta la mujer de Sánchez
+	En esos días y con dinero público, Irene Montero, la mujer de Pablo Iglesias, montaba carteles incitando a la gente a ir al aquelarre feminista en el que se contagio hasta la mujer de Sánchez
+	OMS
+	Los médicos ecuatorianos, dirigidos por el Doctor Jacinto Pichamaluco, desobedecieron la ley mundial de la salud OMS
+agente?:
+	por el Doctor Jacinto Pichamaluco
+	Los médicos ecuatorianos, dirigidos por el Doctor Jacinto Pichamaluco, desobedecieron la ley mundial de la salud OMS
+
+--------
+
+WHEN
+podríamos utilizar el añotador para esto. 
+
+- tipo:
+chunk: en esos días
+esta misma mañana
+días de la semana: el jueves
+este miércoles
+- función:
+locución de tiempo definida: 
+
+locución adverbial tiempo indefinida?: 
+	en esos días
+	En esos días y con dinero público, Irene Montero, la mujer de Pablo Iglesias, montaba carteles incitando a la gente a ir al aquelarre feminista en el que se contagio hasta la mujer de Sánchez
+	esta misma mañana
+	Ha sido esta misma mañana cuando se ha comunicado mientras eran varias las personas que esperaban en hospitales y centros de salud para ser vacunados.
+duración:
+	en 24 horas
+	La incidencia acumulada sigue aumentando en España hasta los 154,7 casos con 7.041 contagios más de covid en 24 horas, en una jornada que ha registrado récord de vacunas administradas por segundo día consecutivo: 306.995 dosis el jueves y 298.549 este miércoles.
+	en las próximas horas
+	Explosiones de gas en Marte podrían dañar la Tierra en las próximas horas.
+
+--------
+WHERE
+- tipo:
+term:
+	al aquelarre feminista
+	En esos días y con dinero público, Irene Montero, la mujer de Pablo Iglesias, montaba carteles incitando a la gente a ir al aquelarre feminista en el que se contagio hasta la mujer de Sánchez
+	En su documento
+	En su documento, la Conass recomendó la inmediata “prohibición de eventos presenciales como espectáculos, congresos, actividades religiosas, deportivas o similares en todo el territorio nacional”.
+named entities: 
+	en España
+	La incidencia acumulada sigue aumentando en España hasta los 154,7 casos con 7.041 contagios más de covid en 24 horas, en una jornada que ha registrado récord de vacunas administradas por segundo día consecutivo: 306.995 dosis el jueves y 298.549 este miércoles.
+
+- función: 
+ir xcomp incitando
+al case aquelarre
+aquelarre obl ir
+feminista amod aquelarre
+
+
+En case documento
+su det documento
+documento obl recomendó
+
+--------
+
+WHY (causa)
+
+- tipo:
+chunks:
+	dado el estado clínico del hombre
+	La sentencia esgrime que ya no fue \"posible\", dado el estado clínico del hombre, el contemplar la posibilidad de un trasplante o de una resección quirúrgica.
+
+HOW (manera)
+- tipo:
+chunk: 
+por el contacto directo por fluidos
+El contagio sólo se produce por el contacto directo por fluidos, tiene una forma de contagio similar al Sida, por lo que no hay que preocuparse salvo que tratemos directamente con enfermos y sus fluidos (como el personal sanitario).
+
+- función: 
+
+
+
+
+
